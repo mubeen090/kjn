@@ -51,14 +51,13 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={mlImg}
             alt="Machine Learning"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
@@ -84,14 +83,13 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={cybersecurityImg}
             alt="Cyber Security"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
@@ -117,14 +115,13 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={devopsImg}
             alt="DevOps"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
@@ -150,15 +147,14 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       {/* Course cards after exploring */}
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={oracleImg}
             alt="Oracle"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
@@ -184,14 +180,13 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={awsImg}
             alt="AWS"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
@@ -217,14 +212,13 @@ const CourseCard = ({ slug }) => {
           <Image src={rating4Img} alt="Rating" />
         </div>
       </div>
-
       <div className={styles.course_card}>
         <div className={styles.course_image_container}>
           <Image
             src={javaImg}
             alt="Java"
-            width={340}
-            height={240}
+            width={200}
+            height={200}
             className={styles.course_image}
           />
         </div>
