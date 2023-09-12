@@ -1,3 +1,5 @@
+JSX
+import JSXStyle from "styled-jsx/style";
 import styles from "./Heading.module.css";
 const Heading = ({ para1, heading, para2 }) => {
   return (

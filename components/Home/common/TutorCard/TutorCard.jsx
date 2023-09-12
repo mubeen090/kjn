@@ -1,3 +1,4 @@
+jsx
 import styles from "./TutorCard.module.css";
 import Image from "next/image";
 import linkedinImage from "../../../../public/assets/tutorCard/linkedin.png";
